@@ -3,7 +3,7 @@ provides website sitemap
 if the link is 'www.sumanniroula.com.np', it gives output as:
 
 
-<url>
+"<url>
   <loc>http://www.sumanniroula.com.np/</loc>
   <lastmod>2017-10-21T19:45:29+00:00</lastmod>
 
@@ -16,4 +16,4 @@ if the link is 'www.sumanniroula.com.np', it gives output as:
 .
 .
 .
-.
+."
